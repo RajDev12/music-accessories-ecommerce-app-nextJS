@@ -35,4 +35,6 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 3. Press `ctrl+shift+I` to open inspect in Chrome
 
 ## Screenshots of the Webpages
-![Screenshot Image](C:\Users\rjnat\OneDrive\Desktop\Courses\pro-1\Ecommerce-App\ecommerce\public)
+![Screenshot Image](public\webpageScreenshot\1.png)
+![Screenshot Image](public\webpageScreenshot\2.png)
+![Screenshot Image](public\webpageScreenshot\3.png)
