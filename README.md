@@ -36,5 +36,5 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 ## Screenshots of the Webpages
 ![Screenshot Image](/public/webpageScreenshot/1.png)
-![Screenshot Image](public\webpageScreenshot\2.png)
-![Screenshot Image](public\webpageScreenshot\3.png)
+![Screenshot Image](/public/webpageScreenshot/2.png)
+![Screenshot Image](/public/webpageScreenshot/3.png)
