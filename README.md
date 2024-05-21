@@ -33,3 +33,6 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
     - At line 18 of stripe.js, update project id
     - At line 15, update shipping rate and currency type
 3. Press `ctrl+shift+I` to open inspect in Chrome
+
+## Screenshots of the Webpages
+![Screenshot Image](C:\Users\rjnat\OneDrive\Desktop\Courses\pro-1\Ecommerce-App\ecommerce\public)
