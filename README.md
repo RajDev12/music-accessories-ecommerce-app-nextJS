@@ -41,3 +41,9 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 npx create-next-app@latest myapp
 npm install --legacy-peer-deps
+import { urlFor } from '../../lib/client';
+npm install react-icons
+
+Configure the stripe api for the payment gateway
+at line 18 of stripe.js ,update project id
+at line 15 ,update shipping rate  and also update the currency type
