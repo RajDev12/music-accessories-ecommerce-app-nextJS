@@ -1,7 +1,6 @@
-
-const nextConfig = {
-  reactStrictMode: true,
-  ignoreDuringBuilds: true,
-};
-
-module.exports = nextConfig
+module.exports = { 
+  reactStrictMode: true, 
+  eslint: { 
+    ignoreDuringBuilds: true, 
+  }, 
+}
